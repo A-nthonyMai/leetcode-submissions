@@ -1,0 +1,11 @@
+{
+    "editor.formatOnSave": true,
+    "leetcode.defaultLanguage": "python3",
+    "leetcode.workspaceFolder": "/Documents/Work/leetcode-submissions",
+    "leetcode.filePath": {
+        "default": {
+            "folder": "",
+            "filename": "${id}.${kebab-case-name}.${ext}"
+        }
+    }
+}
