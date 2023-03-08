@@ -7,5 +7,6 @@
             "folder": "",
             "filename": "${id}.${kebab-case-name}.${ext}"
         }
-    }
+    },
+    "leetcode.showDescription": "python3"
 }
